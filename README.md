@@ -41,9 +41,7 @@ Welcome to the Flutter E-Commerce App project! This app is designed to provide a
 => Forgot Password
 => Sign Up
 => Complete Profile
-
 => OTP Verification
-
 => Home Page
 
 => Product Details

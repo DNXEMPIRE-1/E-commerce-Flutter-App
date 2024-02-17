@@ -45,9 +45,7 @@ Welcome to the Flutter E-Commerce App project! This app is designed to provide a
 => Home Page
 => Product Details
 => Order
-
 => Profile (added)
-
 => Bottom Navigation Bar (added)
 
 Now it contains all the screen, thanks for your love and support 🙏 

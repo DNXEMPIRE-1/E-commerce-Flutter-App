@@ -37,7 +37,6 @@ Welcome to the Flutter E-Commerce App project! This app is designed to provide a
 ## Screens it contains:
 
 => Onboarding
-
 => Login
 
 => Forgot Password

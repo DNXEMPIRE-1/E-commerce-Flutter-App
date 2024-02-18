@@ -37,25 +37,15 @@ Welcome to the Flutter E-Commerce App project! This app is designed to provide a
 ## Screens it contains:
 
 => Onboarding
-
 => Login
-
 => Forgot Password
-
 => Sign Up
-
 => Complete Profile
-
 => OTP Verification
-
 => Home Page
-
 => Product Details
-
 => Order
-
 => Profile (added)
-
 => Bottom Navigation Bar (added)
 
 Now it contains all the screen, thanks for your love and support 🙏 
@@ -68,3 +58,5 @@ Now it contains all the screen, thanks for your love and support 🙏
 ![Preview](5.png)
 ![Preview](6.png)
 ![Preview](7.png)
+
+## Preview
